@@ -4,7 +4,7 @@
 git clone <repo>
 cd simple-web-service
 npm install
-node index.js
+node service.js
 ```
 ## docker build and run
 docker build -t <name>/<service-name> .
