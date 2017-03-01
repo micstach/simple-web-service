@@ -1,5 +1,5 @@
 # simple-web-service
-## building
+## build and run
 ```
 git clone <repo>
 cd simple-web-service
